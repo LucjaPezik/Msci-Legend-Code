@@ -1,0 +1,2099 @@
+{
+    "1027200": {
+        "name": "BSLN01",
+        "system": "bsln"
+    },
+    "1027201": {
+        "name": "PULS01",
+        "system": "puls"
+    },
+    "1027202": {
+        "name": "MUON01",
+        "system": "auxs"
+    },
+    "1027203": {
+        "name": "PULS01ANA",
+        "system": "puls"
+    },
+    "1104000": {
+        "name": "V02160A",
+        "system": "geds",
+        "location": {
+            "string": 1,
+            "position": 1
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1104001": {
+        "name": "V02160B",
+        "system": "geds",
+        "location": {
+            "string": 1,
+            "position": 2
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1104002": {
+        "name": "V05261B",
+        "system": "geds",
+        "location": {
+            "string": 1,
+            "position": 3
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1104003": {
+        "name": "V05266A",
+        "system": "geds",
+        "location": {
+            "string": 1,
+            "position": 4
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1104004": {
+        "name": "V05266B",
+        "system": "geds",
+        "location": {
+            "string": 1,
+            "position": 5
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1104005": {
+        "name": "V05268B",
+        "system": "geds",
+        "location": {
+            "string": 1,
+            "position": 6
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1105600": {
+        "name": "V05612A",
+        "system": "geds",
+        "location": {
+            "string": 1,
+            "position": 7
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1105601": {
+        "name": "DUMMY00",
+        "system": "auxs"
+    },
+    "1105602": {
+        "name": "V07647A",
+        "system": "geds",
+        "location": {
+            "string": 1,
+            "position": 8
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1105603": {
+        "name": "V07647B",
+        "system": "geds",
+        "location": {
+            "string": 1,
+            "position": 9
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1105604": {
+        "name": "DUMMY01",
+        "system": "auxs"
+    },
+    "1105605": {
+        "name": "DUMMY02",
+        "system": "auxs"
+    },
+    "1107200": {
+        "name": "DUMMY03",
+        "system": "auxs"
+    },
+    "1107201": {
+        "name": "DUMMY04",
+        "system": "auxs"
+    },
+    "1107202": {
+        "name": "B00035C",
+        "system": "geds",
+        "location": {
+            "string": 2,
+            "position": 1
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1107203": {
+        "name": "C000RG1",
+        "system": "geds",
+        "location": {
+            "string": 2,
+            "position": 2
+        },
+        "type": "coax",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1107204": {
+        "name": "C000RG2",
+        "system": "geds",
+        "location": {
+            "string": 2,
+            "position": 3
+        },
+        "type": "coax",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1107205": {
+        "name": "C00ANG3",
+        "system": "geds",
+        "location": {
+            "string": 2,
+            "position": 4
+        },
+        "type": "coax",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1108800": {
+        "name": "C00ANG5",
+        "system": "geds",
+        "location": {
+            "string": 2,
+            "position": 5
+        },
+        "type": "coax",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1108801": {
+        "name": "C00ANG2",
+        "system": "geds",
+        "location": {
+            "string": 2,
+            "position": 6
+        },
+        "type": "coax",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1108802": {
+        "name": "V00074A",
+        "system": "geds",
+        "location": {
+            "string": 2,
+            "position": 7
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1108803": {
+        "name": "V04549A",
+        "system": "geds",
+        "location": {
+            "string": 2,
+            "position": 8
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1108804": {
+        "name": "V07298B",
+        "system": "geds",
+        "location": {
+            "string": 2,
+            "position": 9
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1108805": {
+        "name": "DUMMY05",
+        "system": "auxs"
+    },
+    "1110400": {
+        "name": "DUMMY06",
+        "system": "auxs"
+    },
+    "1110401": {
+        "name": "DUMMY07",
+        "system": "auxs"
+    },
+    "1110402": {
+        "name": "B00032B",
+        "system": "geds",
+        "location": {
+            "string": 3,
+            "position": 1
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1110403": {
+        "name": "B00091C",
+        "system": "geds",
+        "location": {
+            "string": 3,
+            "position": 2
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1110404": {
+        "name": "P00574B",
+        "system": "geds",
+        "location": {
+            "string": 3,
+            "position": 3
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1110405": {
+        "name": "P00665A",
+        "system": "geds",
+        "location": {
+            "string": 3,
+            "position": 4
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1112000": {
+        "name": "P00698A",
+        "system": "geds",
+        "location": {
+            "string": 3,
+            "position": 5
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1112001": {
+        "name": "P00712A",
+        "system": "geds",
+        "location": {
+            "string": 3,
+            "position": 6
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "ac"
+        }
+    },
+    "1112002": {
+        "name": "P00909C",
+        "system": "geds",
+        "location": {
+            "string": 3,
+            "position": 7
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1112003": {
+        "name": "P00661B",
+        "system": "geds",
+        "location": {
+            "string": 3,
+            "position": 8
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1112004": {
+        "name": "P00574A",
+        "system": "geds",
+        "location": {
+            "string": 3,
+            "position": 9
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1112005": {
+        "name": "B00000B",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 1
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1113600": {
+        "name": "B00000C",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 2
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1113601": {
+        "name": "B00061A",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 3
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1113602": {
+        "name": "B00061C",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 4
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1113603": {
+        "name": "B00076C",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 5
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1113604": {
+        "name": "B00079B",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 6
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1113605": {
+        "name": "B00079C",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 7
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1115200": {
+        "name": "V01386A",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 8
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1115201": {
+        "name": "V01403A",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 9
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1115202": {
+        "name": "V01404A",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 10
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1115203": {
+        "name": "V01406A",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 11
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "ac"
+        }
+    },
+    "1115204": {
+        "name": "V01415A",
+        "system": "geds",
+        "location": {
+            "string": 4,
+            "position": 12
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "ac"
+        }
+    },
+    "1115205": {
+        "name": "DUMMY08",
+        "system": "auxs"
+    },
+    "1116800": {
+        "name": "DUMMY09",
+        "system": "auxs"
+    },
+    "1116801": {
+        "name": "V08682B",
+        "system": "geds",
+        "location": {
+            "string": 5,
+            "position": 1
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1116802": {
+        "name": "V08682A",
+        "system": "geds",
+        "location": {
+            "string": 5,
+            "position": 2
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1116803": {
+        "name": "V09372A",
+        "system": "geds",
+        "location": {
+            "string": 5,
+            "position": 3
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1116804": {
+        "name": "V09374A",
+        "system": "geds",
+        "location": {
+            "string": 5,
+            "position": 4
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1116805": {
+        "name": "V09724A",
+        "system": "geds",
+        "location": {
+            "string": 5,
+            "position": 5
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1118400": {
+        "name": "DUMMY10",
+        "system": "auxs"
+    },
+    "1118401": {
+        "name": "DUMMY11",
+        "system": "auxs"
+    },
+    "1118402": {
+        "name": "V02162B",
+        "system": "geds",
+        "location": {
+            "string": 7,
+            "position": 1
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1118403": {
+        "name": "V02166B",
+        "system": "geds",
+        "location": {
+            "string": 7,
+            "position": 2
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1118404": {
+        "name": "V04199A",
+        "system": "geds",
+        "location": {
+            "string": 7,
+            "position": 3
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1118405": {
+        "name": "V04545A",
+        "system": "geds",
+        "location": {
+            "string": 7,
+            "position": 4
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1120000": {
+        "name": "V05267B",
+        "system": "geds",
+        "location": {
+            "string": 7,
+            "position": 5
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1120001": {
+        "name": "V07646A",
+        "system": "geds",
+        "location": {
+            "string": 7,
+            "position": 6
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1120002": {
+        "name": "V07302B",
+        "system": "geds",
+        "location": {
+            "string": 7,
+            "position": 7
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1120003": {
+        "name": "B00089C",
+        "system": "geds",
+        "location": {
+            "string": 8,
+            "position": 1
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1120004": {
+        "name": "B00089D",
+        "system": "geds",
+        "location": {
+            "string": 8,
+            "position": 2
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "ac"
+        }
+    },
+    "1120005": {
+        "name": "C00ANG4",
+        "system": "geds",
+        "location": {
+            "string": 8,
+            "position": 3
+        },
+        "type": "coax",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1121600": {
+        "name": "V00048B",
+        "system": "geds",
+        "location": {
+            "string": 8,
+            "position": 4
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1121601": {
+        "name": "V00050A",
+        "system": "geds",
+        "location": {
+            "string": 8,
+            "position": 5
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1121602": {
+        "name": "V00050B",
+        "system": "geds",
+        "location": {
+            "string": 8,
+            "position": 6
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1121603": {
+        "name": "V01387A",
+        "system": "geds",
+        "location": {
+            "string": 8,
+            "position": 7
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "ac"
+        }
+    },
+    "1121604": {
+        "name": "V05261A",
+        "system": "geds",
+        "location": {
+            "string": 8,
+            "position": 8
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1121605": {
+        "name": "V05268A",
+        "system": "geds",
+        "location": {
+            "string": 8,
+            "position": 9
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1078400": {
+        "name": "V07302A",
+        "system": "geds",
+        "location": {
+            "string": 8,
+            "position": 10
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1078401": {
+        "name": "DUMMY12",
+        "system": "auxs"
+    },
+    "1078402": {
+        "name": "DUMMY13",
+        "system": "auxs"
+    },
+    "1078403": {
+        "name": "DUMMY14",
+        "system": "auxs"
+    },
+    "1078404": {
+        "name": "DUMMY15",
+        "system": "auxs"
+    },
+    "1078405": {
+        "name": "B00002A",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 1
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1080000": {
+        "name": "B00089A",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 2
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1080001": {
+        "name": "B00091A",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 3
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1080002": {
+        "name": "B00091D",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 4
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1080003": {
+        "name": "P00537A",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 5
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1080004": {
+        "name": "P00538A",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 6
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1080005": {
+        "name": "P00573A",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 7
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1081600": {
+        "name": "P00661C",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 8
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1081601": {
+        "name": "P00662C",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 9
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1081602": {
+        "name": "P00664A",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 10
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1081603": {
+        "name": "P00665C",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 11
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "ac"
+        }
+    },
+    "1081604": {
+        "name": "P00748B",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 12
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "ac"
+        }
+    },
+    "1081605": {
+        "name": "P00909B",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 13
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1083200": {
+        "name": "B00091B",
+        "system": "geds",
+        "location": {
+            "string": 9,
+            "position": 14
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1083201": {
+        "name": "B00000D",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 1
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1083202": {
+        "name": "B00002C",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 2
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1083203": {
+        "name": "B00032C",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 3
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1083204": {
+        "name": "B00032D",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 4
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1083205": {
+        "name": "B00035A",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 5
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1084800": {
+        "name": "B00035B",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 6
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1084801": {
+        "name": "B00061B",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 7
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1084802": {
+        "name": "B00089B",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 8
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1084803": {
+        "name": "V00048A",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 9
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1084804": {
+        "name": "V01240A",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 10
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1084805": {
+        "name": "V01389A",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 11
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1086400": {
+        "name": "V05267A",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 12
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1086401": {
+        "name": "V05612B",
+        "system": "geds",
+        "location": {
+            "string": 10,
+            "position": 13
+        },
+        "type": "icpc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1086402": {
+        "name": "DUMMY16",
+        "system": "auxs"
+    },
+    "1086403": {
+        "name": "B00000A",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 1
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1086404": {
+        "name": "B00002B",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 2
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1086405": {
+        "name": "B00032A",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 3
+        },
+        "type": "bege",
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1088000": {
+        "name": "P00538B",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 4
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1088001": {
+        "name": "P00573B",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 5
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1088002": {
+        "name": "P00575A",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 6
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1088003": {
+        "name": "P00574C",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 7
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1088004": {
+        "name": "P00661A",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 8
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1088005": {
+        "name": "DUMMY17",
+        "system": "auxs"
+    },
+    "1089600": {
+        "name": "P00662A",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 9
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1089601": {
+        "name": "P00662B",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 10
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1089602": {
+        "name": "P00665B",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 11
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1089603": {
+        "name": "P00748A",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 12
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": true,
+            "usability": "no_psd"
+        }
+    },
+    "1089604": {
+        "name": "P00698B",
+        "system": "geds",
+        "location": {
+            "string": 11,
+            "position": 13
+        },
+        "type": "ppc",
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1052802": {
+        "name": "S060",
+        "system": "spms",
+        "location": {
+            "fiber": "IB015016",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1052803": {
+        "name": "S061",
+        "system": "spms",
+        "location": {
+            "fiber": "IB015016",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1052804": {
+        "name": "S055",
+        "system": "spms",
+        "location": {
+            "fiber": "OB005006",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1052805": {
+        "name": "S054",
+        "system": "spms",
+        "location": {
+            "fiber": "OB005006",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1054400": {
+        "name": "S013",
+        "system": "spms",
+        "location": {
+            "fiber": "OB007008",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1054401": {
+        "name": "S017",
+        "system": "spms",
+        "location": {
+            "fiber": "OB007008",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1054402": {
+        "name": "S074",
+        "system": "spms",
+        "location": {
+            "fiber": "IB017018",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1054403": {
+        "name": "S073",
+        "system": "spms",
+        "location": {
+            "fiber": "IB017018",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1054404": {
+        "name": "S071",
+        "system": "spms",
+        "location": {
+            "fiber": "IB001002",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1054405": {
+        "name": "S070",
+        "system": "spms",
+        "location": {
+            "fiber": "IB001002",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1056000": {
+        "name": "S067",
+        "system": "spms",
+        "location": {
+            "fiber": "OB021022",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1056001": {
+        "name": "S068",
+        "system": "spms",
+        "location": {
+            "fiber": "OB021022",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1056002": {
+        "name": "S056",
+        "system": "spms",
+        "location": {
+            "fiber": "IB003004",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1056003": {
+        "name": "S029",
+        "system": "spms",
+        "location": {
+            "fiber": "IB003004",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1056004": {
+        "name": "S042",
+        "system": "spms",
+        "location": {
+            "fiber": "OB023024",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1056005": {
+        "name": "S041",
+        "system": "spms",
+        "location": {
+            "fiber": "OB023024",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1057600": {
+        "name": "S024",
+        "system": "spms",
+        "location": {
+            "fiber": "IB005006",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1057601": {
+        "name": "S023",
+        "system": "spms",
+        "location": {
+            "fiber": "IB005006",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1057602": {
+        "name": "S030",
+        "system": "spms",
+        "location": {
+            "fiber": "OB009010",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1057603": {
+        "name": "S031",
+        "system": "spms",
+        "location": {
+            "fiber": "OB009010",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1057604": {
+        "name": "S002",
+        "system": "spms",
+        "location": {
+            "fiber": "IB007008",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1057605": {
+        "name": "S003",
+        "system": "spms",
+        "location": {
+            "fiber": "IB007008",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1059200": {
+        "name": "S032",
+        "system": "spms",
+        "location": {
+            "fiber": "IB009010",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1059201": {
+        "name": "S036",
+        "system": "spms",
+        "location": {
+            "fiber": "IB009010",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1059202": {
+        "name": "S028",
+        "system": "spms",
+        "location": {
+            "fiber": "OB011012",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1059203": {
+        "name": "S027",
+        "system": "spms",
+        "location": {
+            "fiber": "OB011012",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1059204": {
+        "name": "S010",
+        "system": "spms",
+        "location": {
+            "fiber": "OB019020",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1059205": {
+        "name": "S008",
+        "system": "spms",
+        "location": {
+            "fiber": "OB019020",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1060800": {
+        "name": "S058",
+        "system": "spms",
+        "location": {
+            "fiber": "IB011012",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1060801": {
+        "name": "S057",
+        "system": "spms",
+        "location": {
+            "fiber": "IB011012",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1060802": {
+        "name": "S022",
+        "system": "spms",
+        "location": {
+            "fiber": "IB013014",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1060803": {
+        "name": "S021",
+        "system": "spms",
+        "location": {
+            "fiber": "IB013014",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1060804": {
+        "name": "S064",
+        "system": "spms",
+        "location": {
+            "fiber": "OB025026",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1060805": {
+        "name": "S065",
+        "system": "spms",
+        "location": {
+            "fiber": "OB025026",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1062400": {
+        "name": "S009",
+        "system": "spms",
+        "location": {
+            "fiber": "OB027028",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1062401": {
+        "name": "S007",
+        "system": "spms",
+        "location": {
+            "fiber": "OB027028",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1062402": {
+        "name": "S046",
+        "system": "spms",
+        "location": {
+            "fiber": "OB017018",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1062403": {
+        "name": "S047",
+        "system": "spms",
+        "location": {
+            "fiber": "OB017018",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1062404": {
+        "name": "S011",
+        "system": "spms",
+        "location": {
+            "fiber": "OB015016",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1062405": {
+        "name": "S012",
+        "system": "spms",
+        "location": {
+            "fiber": "OB015016",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1064000": {
+        "name": "S020",
+        "system": "spms",
+        "location": {
+            "fiber": "OB029030",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1064001": {
+        "name": "S019",
+        "system": "spms",
+        "location": {
+            "fiber": "OB029030",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1064002": {
+        "name": "S026",
+        "system": "spms",
+        "location": {
+            "fiber": "OB031032",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1064003": {
+        "name": "S025",
+        "system": "spms",
+        "location": {
+            "fiber": "OB031032",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1064004": {
+        "name": "S015",
+        "system": "spms",
+        "location": {
+            "fiber": "OB033034",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1064005": {
+        "name": "S033",
+        "system": "spms",
+        "location": {
+            "fiber": "OB033034",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1065600": {
+        "name": "S043",
+        "system": "spms",
+        "location": {
+            "fiber": "OB013014",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1065601": {
+        "name": "S040",
+        "system": "spms",
+        "location": {
+            "fiber": "OB013014",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1065602": {
+        "name": "S048",
+        "system": "spms",
+        "location": {
+            "fiber": "OB035036",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1065603": {
+        "name": "S049",
+        "system": "spms",
+        "location": {
+            "fiber": "OB035036",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1065604": {
+        "name": "S053",
+        "system": "spms",
+        "location": {
+            "fiber": "OB037038",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1065605": {
+        "name": "S052",
+        "system": "spms",
+        "location": {
+            "fiber": "OB037038",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1067200": {
+        "name": "S050",
+        "system": "spms",
+        "location": {
+            "fiber": "OB039040",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1067201": {
+        "name": "S051",
+        "system": "spms",
+        "location": {
+            "fiber": "OB039040",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1067202": {
+        "name": "S045",
+        "system": "spms",
+        "location": {
+            "fiber": "OB001002",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": false,
+            "usability": "off"
+        }
+    },
+    "1067203": {
+        "name": "S044",
+        "system": "spms",
+        "location": {
+            "fiber": "OB001002",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1067204": {
+        "name": "S037",
+        "system": "spms",
+        "location": {
+            "fiber": "OB003004",
+            "position": "top"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    },
+    "1067205": {
+        "name": "S035",
+        "system": "spms",
+        "location": {
+            "fiber": "OB003004",
+            "position": "bottom"
+        },
+        "analysis": {
+            "processable": true,
+            "usability": "on"
+        }
+    }
+}

@@ -1,6 +1,6 @@
 # Msci-Legend-Code
 
-The best way to following this code is as follows :
+The best way to following this github is as follows :
 
 ## a. Selection criteria and cuts 
 This can be seen in notebook `CUTS_SELECTION_CRITERIA`.
